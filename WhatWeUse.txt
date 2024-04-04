@@ -1,3 +1,4 @@
 NextJS
 TailwindCSS
 ShadCN
+Clerk
