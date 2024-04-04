@@ -22,6 +22,11 @@ const config = {
         dark: {
           1: '#1C1F2E',
           2: '#161925',
+          // 1: '#31363F',
+          // 2: '#222831',
+        },
+        blue: {
+          1: '#0E78F9'
         },
 
         border: "hsl(var(--border))",
