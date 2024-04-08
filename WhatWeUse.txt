@@ -2,3 +2,4 @@ NextJS
 TailwindCSS
 ShadCN
 Clerk
+Stream (Third party API)
