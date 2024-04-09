@@ -10,6 +10,7 @@ import {
     DialogTrigger,
   } from "@/components/ui/dialog"
 import { Button } from './ui/button';
+import Image from 'next/image';
   
 
 interface MeetingModalProps {
