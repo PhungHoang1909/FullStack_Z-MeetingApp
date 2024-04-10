@@ -34,3 +34,4 @@ const HomeCard = ({ className, img, title, description, handleClick }: HomeCardP
 };
 
 export default HomeCard;
+
