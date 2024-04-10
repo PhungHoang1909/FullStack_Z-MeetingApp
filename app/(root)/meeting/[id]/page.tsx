@@ -21,7 +21,7 @@ const Meeting = ({ params: { id } }: { params: { id: string } }) => {
       <StreamCall call={call}>
         <StreamTheme>
           {!isSetupComplete ? (
-            <MeetingSetup setisSetupComplete={setisSetupComplete} />
+            <MeetingSetup setisSetupComplet={setisSetupComplete} />
           ): (
             <MeetingRoom />
           )}
@@ -32,3 +32,4 @@ const Meeting = ({ params: { id } }: { params: { id: string } }) => {
 }
 
 export default Meeting
+
